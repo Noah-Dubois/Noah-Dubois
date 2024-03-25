@@ -13,15 +13,8 @@
 
 <h3 align="center"> Tools </h3>
 <p align="center" style="margin-top: 24px">
-  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/github%20-%23FCA121.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </p>
-
-<h3 align="left"> Links </h3>
-
-<a href="https://lxdovic.fr">
-  <img src="https://img.shields.io/website?url=https://www.lxdovic.fr&style=for-the-badge&label=lxdovic.fr (old, new is a wip)&color=%239C00FC"/>
-</a>
 
 <h3 align="left"> Stats & Repos </h3>
 
