@@ -1,7 +1,4 @@
 
-
-<h1 align="center">Welcome to my Profile 👋</h1>
-
 <h1 align="center" style="margin-top: 24px"">Noah Dubois - Web Developer</h1>
 
 <h3 align="center"> Favorite Languages </h3>
