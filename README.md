@@ -16,7 +16,7 @@
 
 <h3 align="center"> Databases </h3>
 <p align="center" style="margin-top: 24px">
-  <img src="https://img.shields.io/badge/MySQL%20-%23323330.svg?&style=for-the-badge&logo=mysql&logoColor=%green"/>
+  <img src="https://img.shields.io/badge/MySQL%20-%23323330.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 <h3 align="center"> Tools </h3>
