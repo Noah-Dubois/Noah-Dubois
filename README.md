@@ -9,8 +9,7 @@
 <h3 align="center"> Notion Languages </h3>
 <p align="center" style="margin-top: 24px">
   <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/gitlab%20-%23F7DF1E.svg?&style=for-the-badge&logo=gitlab&logoColor=black"/>
-  <img src="https://img.shields.io/badge/logo-gitlab-blue?logo=gitlab"/>
+  <img src="https://img.shields.io/badge/gitlab%20-%23F7DF1E.svg?&style=for-the-badge&logo=php&logoColor=black"/>
 </p>
 
 <h3 align="center"> Tools </h3>
