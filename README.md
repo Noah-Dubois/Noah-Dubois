@@ -3,7 +3,7 @@
 
 <h3 align="center"> Favorite Languages </h3>
 <p align="center" style="margin-top: 24px">
-  <img src="https://img.shields.io/badge/html%20-%fe05d44.svg?&style=for-the-badge&logo=HTML&logoColor=black"/>
+  <img src="https://img.shields.io/badge/html%20-%23F05033.svg?&style=for-the-badge&logo=HTML&logoColor=black"/>
   <img src="https://img.shields.io/badge/CSS%20-%2338BDF8.svg?&style=for-the-badge&logo=CSS&logoColor=black"/>
 </p>
 
