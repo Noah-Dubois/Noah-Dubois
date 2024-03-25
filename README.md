@@ -3,8 +3,8 @@
 
 <h3 align="center"> Favorite Languages </h3>
 <p align="center" style="margin-top: 24px">
-  <img src="https://img.shields.io/badge/html%20-%23F05033.svg?&style=for-the-badge&logo=html5&logoColor=black"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff&style=for-the-badge"
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff&style=for-the-badge"/>
 </p>
 
 <h3 align="center"> Notion Languages </h3>
