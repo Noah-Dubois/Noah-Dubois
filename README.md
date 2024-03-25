@@ -3,7 +3,7 @@
 
 <h3 align="center"> Favorite Languages </h3>
 <p align="center" style="margin-top: 24px">
-  <img src="https://img.shields.io/badge/css%20-%233178C6.svg?&style=for-the-badge&logo=css&logoColor=black"/>
+  <img src="https://img.shields.io/badge/CSS%20-%233178C6.svg?&style=for-the-badge&logo=CSS&logoColor=black"/>
 </p>
 
 <h3 align="center"> Notion Languages </h3>
