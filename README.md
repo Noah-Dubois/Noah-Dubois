@@ -19,5 +19,5 @@
 <h3 align="left"> Stats & Repos </h3>
 
 <a href="https://github.com/Lxdovic/Lxdovic">
-  <img width=38.5%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lxdovic&layout=compact&langs_count=4&theme=radical" />
+  <img width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lxdovic&layout=compact&langs_count=4&theme=radical" />
 </a>
