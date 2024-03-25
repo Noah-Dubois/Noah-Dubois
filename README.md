@@ -1,5 +1,5 @@
 
-<h1 align="center" style="margin-top: 24px"">Noah Dubois - Web Developer</h1>
+<h1 align="center" style="margin-top: 24px"">Noah Dubois - Developer</h1>
 
 <h3 align="center"> Favorite Languages </h3>
 <p align="center" style="margin-top: 24px">
