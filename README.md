@@ -21,4 +21,5 @@
 <h3 align="center"> Tools </h3>
 <p align="center" style="margin-top: 24px">
   <img src="https://img.shields.io/badge/github%20-%23FCA121.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/figma%20-%23FCA121.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
