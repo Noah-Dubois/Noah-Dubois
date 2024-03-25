@@ -3,14 +3,13 @@
 
 <h3 align="center"> Favorite Languages </h3>
 <p align="center" style="margin-top: 24px">
-  <img src="https://img.shields.io/badge/html%20-%233178C6.svg?&style=for-the-badge&logo=html&logoColor=black"/>
+  <img src="https://img.shields.io/badge/css%20-%233178C6.svg?&style=for-the-badge&logo=css&logoColor=black"/>
 </p>
 
 <h3 align="center"> Notion Languages </h3>
 <p align="center" style="margin-top: 24px">
   <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/php%20-%233178C6.svg?&style=for-the-badge&logo=php&logoColor=black"/>
-  <img src="https://img.shields.io/badge/html%20-%233178C6.svg?&style=for-the-badge&logo=html&logoColor=black"/>
 </p>
 
 <h3 align="center"> Tools </h3>
